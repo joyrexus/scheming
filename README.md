@@ -2,14 +2,14 @@ Scheming
 ========
 
 
-## ref
+## Reference
 
 [MIT/GNU Scheme Docs](http://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/index.html)
 
-[SICP](http://mitpress.mit.edu/sicp/)
+[SICP Site](http://mitpress.mit.edu/sicp/)
 
 
-## texts
+## Texts
 
 ### springer-friedman
 
