@@ -8,6 +8,8 @@ Scheming
 
 * [SICP Site](http://mitpress.mit.edu/sicp/)
 
+* [SICP in JavaScript](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
+
 
 ## Texts
 
